@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdsonBispo
 - 👀 I’m interested in robotics- development-ESP 32 
 - 🌱 I’m currently learning IoT 
-- 💞️ I’m looking to collaborate on Electronic Circuits and micro control devices ...
+- 💞️ I’m looking to collaborate on Electronic Circuits and micro control devices
 - 📫 How to reach me --> WOKWI and GitHub
 - 😄 Pronouns: Teacher
 - ⚡ Fun fact: I am a mechatronics engineering student
